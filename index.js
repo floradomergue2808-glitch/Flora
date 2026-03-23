@@ -56,5 +56,5 @@ fetch('./events.json').then(res => res.json()).then(data => {
 });
 
 if("serviceWorker" in navigator){
-    navigator.serviceWorker.register("../service-worker.js")
+    navigator.serviceWorker.register("service-worker.js")
 }

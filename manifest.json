@@ -5,8 +5,6 @@
     "display": "standalone",
     "background_color": "#020617",
     "theme_color": "#020617",
-    "start_url": "/Flora/Scripts/index.html",
-    "scope": "/Flora/Scripts/",
     "icons": [
         {
             "src": "Icon/icon-192.png",
